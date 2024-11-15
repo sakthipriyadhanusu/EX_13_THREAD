@@ -26,7 +26,7 @@ Program to print the text “optionmenu”.
 Developed by:SAKTHI PRIYA D
 Registeration Number :212222040139
 */
-## Activity_java:
+## Activity_main.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
@@ -134,7 +134,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/7904180b-157c-430f-9d40-426b4ab06187)
+![image](https://github.com/user-attachments/assets/fa04cb3b-0b85-41ae-9e09-9b71c280bb78)
 
 ## RESULT
 Thus thread synchronization concept with the help of clicking the button in Android Studio is executed successfully.
